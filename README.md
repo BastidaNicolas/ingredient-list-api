@@ -23,7 +23,7 @@ Una repostera posee una gran cantidad de clientes celíacos, para quienes realiz
 
 ##### Add condiment to list
 
-/condiments/add (add params that are in the condiment model)
+/condiments/add (send condiment body)
 
 ##### Edit a condiment
 
